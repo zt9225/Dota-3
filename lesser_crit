@@ -10,7 +10,7 @@
 "ID" "148" //UQ
 
 
-"Model" "models/props_gameplay/recipe.mdl"
+"Model" "models/props_gameplay/recipe.vmdl"
 
 
 "ItemCost" "0"
@@ -25,7 +25,7 @@
 "ItemResult" "item_lesser_crit"
 
 
-"AbilityTextreName" "item_recipe"
+"AbilityTextureName" "item_recipe"
 
 
 "ItemRequirements" {
