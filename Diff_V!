@@ -1,0 +1,26 @@
+"DOTAItems"{
+
+//DIFF BLADE RECIPE
+	"item_recipe_diffusal_blade" {
+		
+		"ID"		"173"	//UQ
+		"Model"		"models/props_gameplay/recipe.vmdl"
+		"ItemCost"		"0"
+		"ItemShopTags"		""
+		"ItemRecipe		"1"
+		"ItemResult"		"item_diffusal_blade"
+		"AbilityTextreName"		"item_recipe"
+		"ItemRequirements" {
+				"01"		""item_blade_of_alacrity;item_blade_of_alacrity;item_robe;item_soul_sworn_stone" }
+		}
+//SOUL SWORN STONE RECIPE
+	"item_soul_sworn_stone"
+
+
+
+
+
+
+
+
+}
