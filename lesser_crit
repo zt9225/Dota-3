@@ -1,0 +1,37 @@
+//Lesser Crit Recipe
+
+
+"item_recipe_lesser_crit" {
+
+
+
+
+
+"ID" "148" //UQ
+
+
+"Model" "models/props_gameplay/recipe.mdl"
+
+
+"ItemCost" "0"
+
+
+"ItemShopTags" ""
+
+
+"ItemRecipe "1"
+
+
+"ItemResult" "item_lesser_crit"
+
+
+"AbilityTextreName" "item_recipe"
+
+
+"ItemRequirements" {
+
+
+"01" ""item_gloves;mithril_hammer;item_recipe_lesser_crit”  }
+
+
+}
